@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1476794882 source:c:\users\user\documents\Программирование\exers2\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1476794882 source:c:\users\user\documents\программирование\exers2\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1478166868 source:c:\users\user\documents\программирование\вторая попытка\выбор\main.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1481552854 source:c:\users\user\documents\программирование\вторая попытка\выбор_part_1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1481552854 source:c:\users\user\documents\Программирование\Вторая попытка\Выбор_part_1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<vector>
+	<algorithm>
+
